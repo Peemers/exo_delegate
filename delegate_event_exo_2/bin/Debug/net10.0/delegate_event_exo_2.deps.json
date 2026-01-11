@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "delegate_event_exo_2/1.0.0": {
+        "runtime": {
+          "delegate_event_exo_2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "delegate_event_exo_2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

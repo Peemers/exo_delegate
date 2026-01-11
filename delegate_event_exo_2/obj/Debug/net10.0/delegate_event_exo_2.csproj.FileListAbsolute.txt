@@ -1,0 +1,14 @@
+S:\dev135j\c#_oo\exo\exo_carwash_delegate\delegate_event_exo_2\bin\Debug\net10.0\delegate_event_exo_2.exe
+S:\dev135j\c#_oo\exo\exo_carwash_delegate\delegate_event_exo_2\bin\Debug\net10.0\delegate_event_exo_2.deps.json
+S:\dev135j\c#_oo\exo\exo_carwash_delegate\delegate_event_exo_2\bin\Debug\net10.0\delegate_event_exo_2.runtimeconfig.json
+S:\dev135j\c#_oo\exo\exo_carwash_delegate\delegate_event_exo_2\bin\Debug\net10.0\delegate_event_exo_2.dll
+S:\dev135j\c#_oo\exo\exo_carwash_delegate\delegate_event_exo_2\bin\Debug\net10.0\delegate_event_exo_2.pdb
+S:\dev135j\c#_oo\exo\exo_carwash_delegate\delegate_event_exo_2\obj\Debug\net10.0\delegate_event_exo_2.GeneratedMSBuildEditorConfig.editorconfig
+S:\dev135j\c#_oo\exo\exo_carwash_delegate\delegate_event_exo_2\obj\Debug\net10.0\delegate_event_exo_2.AssemblyInfoInputs.cache
+S:\dev135j\c#_oo\exo\exo_carwash_delegate\delegate_event_exo_2\obj\Debug\net10.0\delegate_event_exo_2.AssemblyInfo.cs
+S:\dev135j\c#_oo\exo\exo_carwash_delegate\delegate_event_exo_2\obj\Debug\net10.0\delegate_event_exo_2.csproj.CoreCompileInputs.cache
+S:\dev135j\c#_oo\exo\exo_carwash_delegate\delegate_event_exo_2\obj\Debug\net10.0\delegate_event_exo_2.dll
+S:\dev135j\c#_oo\exo\exo_carwash_delegate\delegate_event_exo_2\obj\Debug\net10.0\refint\delegate_event_exo_2.dll
+S:\dev135j\c#_oo\exo\exo_carwash_delegate\delegate_event_exo_2\obj\Debug\net10.0\delegate_event_exo_2.pdb
+S:\dev135j\c#_oo\exo\exo_carwash_delegate\delegate_event_exo_2\obj\Debug\net10.0\delegate_event_exo_2.genruntimeconfig.cache
+S:\dev135j\c#_oo\exo\exo_carwash_delegate\delegate_event_exo_2\obj\Debug\net10.0\ref\delegate_event_exo_2.dll
